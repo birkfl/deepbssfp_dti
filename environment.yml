@@ -1,0 +1,16 @@
+name: deepbssfp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.6.9
+  - keras
+  - numpy
+  - scikit-learn
+  - scipy
+  - tensorflow==2.0.0
+  - tensorboard
+  - matplotlib
+  - h5py==2.10.0
+    
+prefix: D:\Anaconda\envs\deepbssfp 
